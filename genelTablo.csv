@@ -1,0 +1,48 @@
+ID,Tarih,Yer,Eylemci,Cinsiyet,Sorumlu,Olu,Yarali,Hedef
+1,30 Haziran 1996,Tunceli,Zeynep Kınacı,Kadın,PKK,9,29,1
+2,25 Ekim 1996,Adana,Leyla Kaplan,Kadın,PKK,5,18,2
+3,29 Ekim 1996,Sivas,Güler Otaş,Kadın,PKK,6,10,2
+4,17 Kasım 1998,Hakkari,Fatma Özen,Kadın,PKK,2,5,1
+5,1 Aralık 1998,Diyarbakır,Hüsniye Oruç,Kadın,PKK,1,14,1
+6,24 Aralık 1998,Van,Hamdiye Kapan,Kadın,PKK,2,24,1
+7,4 Mart 1999,İstanbul,Maral Maymak,Kadın,PKK,1,10,1
+8,20 Mart 1999,Van,Tacettin Şahin,Erkek,PKK,1,3,2
+9,27 Mart 1999,İstanbul,Semiha Kılıç,Kadın,PKK,1,10,2
+10,5 Nisan 1999,Bingöl,Baki Tatlı,Erkek,PKK,2,12,3
+11,8 Nisan 1999,Hakkari,Turab Muhammedi,Erkek,PKK,2,6,3
+12,5 Temmuz 1999,Adana,Ruşen Tarancalı,Kadın,PKK,1,18,1
+13,3 Ocak 2001,İstanbul,Gültekin Koç,Erkek,DHKP-C,2,7,1
+14,10 Eylül 2001,İstanbul,Uğur Bülbül,Erkek,DHKP-C,4,23,2
+15,9 Mart 2003,İstanbul,Engin Vural  Nihat Doğruel,Erkek,EL-KAIDE,2,6,3
+16,15 Kasım 2003,İstanbul,Mesut Çabuk  Gökhan Elaltuntaş,Erkek,EL-KAIDE,28,300,3
+17,20 Kasım 2003,İstanbul,Feridun Uğurlu  İlyas Kuncak,Erkek,EL-KAIDE,31,450,3
+18,9 Mart 2006,Van,Devrim Solduk,Erkek,PKK,3,19,3
+19,22 Mayıs 2007,Ankara,Güven Akkuş,Erkek,PKK,9,110,4
+20,31 Ekim 2010,İstanbul,Vedat Acar,Erkek,PKK,1,32,2
+21,30 Eylül 2011,Antalya,NaN,Erkek,PKK,1,2,1
+22,29 Ekim 2011,Bingöl,Nazlı Görer,Kadın,PKK,4,20,4
+23,25 Mayıs 2012,Kayseri,Cengiz Özek  Ramazan Yılmaz,Erkek,PKK,2,16,2
+24,5 Ağustos 2012,Hakkari,,Erkek,PKK,1,15,1
+25,11 Eylül 2012,İstanbul,İbrahim Çuhadar,Erkek,DHKP-C,2,7,2
+26,1 Şubat 2013,Ankara,Ecevit Şanlı,Erkek,DHKP-C,2,3,3
+27,6 Ocak 2015,İstanbul,Diana Ramazova,Erkek,ISIS,2,1,2
+28,20 Temmuz 2015,Şanlıurfa,Şeyh Abdurrahman Alagöz,Erkek,ISIS,34,100,3
+29,2 Ağustos 2015,Ağrı,Murat Bütün,Erkek,PKK,3,31,1
+30,10 Ekim 2015,Ankara,Yunus Emre Alagöz,Erkek,ISIS,109,500,4
+31,15 Kasım 2015,Gaziantep,Halil İbrahim Durgun,Erkek,ISIS,1,5,2
+32,12 Ocak 2016,İstanbul,Nebil Fadli,Erkek,ISIS,11,15,4
+33,17 Şubat 2016,Ankara,Abdulbaki Sömer,Erkek,TAK,29,61,1
+34,13 Mart 2016,Ankara,Seher Çağla Demir,Kadın,TAK,38,120,4
+35,19 Mart 2016,İstanbul,Mehmet Öztürk,Erkek,ISIS,5,36,4
+36,28 Nisan 2016,Bursa,Eser Çali,Erkek,TAK,1,13,4
+37,1 Mayıs 2016,Gaziantep,İsmail Güneş,Erkek,ISIS,4,23,2
+38,7 Haziran 2016,İstanbul,Eylem Yaşa,Kadın,TAK,13,36,2
+39,28 Haziran 2016,İstanbul,Rakim Bulgarov  Vadim Osmanov,Erkek,ISIS,45,236,2
+40,18 Ağustos 2016,Elâzığ,Çekdar Mahir Serbest,Erkek,PKK,6,210,2
+41,20 Ağustos 2016,Gaziantep,NaN,Erkek,ISIS,57,90,4
+42,26 Ağustos 2016,Şırnak,Mustafa Aslan,Erkek,PKK,13,78,2
+43,9 Ekim 2016,Hakkari,Mümin Aras,Erkek,PKK,17,26,1
+44,16 Ekim 2016,Gaziantep,Mehmet Kadir Cebael  Muhammed Şerif,Erkek,ISIS,5,13,2
+45,4 Kasım 2016,Diyarbakır,Kemal Hunres,Erkek,TAK,12,100,2
+46,10 Aralık 2016,İstanbul,Kadri Kılınç  Burak Yavuz,Erkek,TAK,48,150,2
+47,17 Aralık 2016,Kayseri,Kasım Yıldırım Çakar,Erkek,PKK,15,50,1
